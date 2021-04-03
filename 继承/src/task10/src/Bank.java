@@ -1,5 +1,3 @@
-package task10;
-
 /**
  * @author: pyt
  * @date: 3/21/0021 19:34
